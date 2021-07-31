@@ -1,0 +1,25 @@
+img{
+    border-radius: 50%;
+}
+h1{
+    font-style: italic;
+}
+h2{
+    color: maroon;
+    font-style: oblique;
+}
+html{
+    background-color: burlywood;
+}
+ul,h3,h4,form,table,h5{
+    color: maroon;
+    font-style: italic;
+}
+h5{
+    font-size: large;
+    font-style: inherit;
+}
+#video,#table{
+    font-size: larger;
+    font-style: italic;
+}
